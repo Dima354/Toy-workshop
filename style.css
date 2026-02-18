@@ -59,7 +59,7 @@
     .hero {
       position: relative;
       height: 80vh;
-      background: url("/img/img_6985.jpg") center/cover no-repeat;
+      background: url("img/img_6985.jpg") center/cover no-repeat;
       display: flex;
       align-items: center;
       padding: 40px;
@@ -254,3 +254,4 @@
         padding: 8px 14px;
       }
     }
+
