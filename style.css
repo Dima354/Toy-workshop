@@ -148,11 +148,10 @@
       padding: 15px;
     }
 
-    .price {
-       display: flex;
+     .price {
+      font-size: 14px;
       color: #666;
-      flex-direction: column;
-        gap: 20px;
+      margin: 5px 0 10px;
     }
 
     .buy {
@@ -255,5 +254,6 @@
         padding: 8px 14px;
       }
     }
+
 
 
